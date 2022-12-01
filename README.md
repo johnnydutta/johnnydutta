@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johnny Dutta.
 - 💾 I’m interested programming in C++
-- 🔨 I’m currently learning C++, Java, Python, JavaScript, and more...
+- 🔧 I’m currently learning C++, Java, Python, JavaScript, and more...
 - 🚀 I’m looking to collaborate on Multiverse-Simulator.
 - 📫 You can reach me on Discord.
 
